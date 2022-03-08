@@ -1,12 +1,12 @@
 baseURL = "http://figs24.github.io/"
 languageCode = "en-us"
 title = "Emefem"
-theme = "minimal"
+theme = "ananke"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
+    author = "Muhammad Figo Mahendra"
     description = "This is my personal blog"
     githubUsername = "figs24"
     accent = "blue"
@@ -47,7 +47,7 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/figs24/"
     name = "fab fa-github"
     weight = 2
 
